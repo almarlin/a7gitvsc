@@ -29,11 +29,11 @@ li a, .dropbtn{
     text-decoration: none;
 }
 li a:hover,.dropdown:hover .dropbtn{
-    background-color: rgb(158, 158, 158);
+    background-color: rgb(59, 0, 0);
 }
 .dropdown-content{
     display: none;
-    background-color:rgb(133, 133, 133);
+    background-color:rgb(48, 0, 0);
     position: absolute;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
